@@ -35,7 +35,15 @@ Experiments are completely described in [`./Experiments`](Experiments), includin
 
 ## Citation
 If you found this repository helpful, please don't forget to cite our paper:
-```
-H. Otroshi-Shahreza, A. Amini, H. Behroozi, "Feature-based No-Reference Video Quality Assessment using Extra Trees", IET Image Processing.
+```BibTeX
+@article{otroshi2022feature,
+  title={Feature-based no-reference video quality assessment using Extra Trees},
+  author={Otroshi-Shahreza, Hatef and Amini, Arash and Behroozi, Hamid},
+  journal={IET Image Processing},
+  volume={16},
+  number={6},
+  pages={1531--1543},
+  year={2022}
+}
 ```
 In case of any question, please feel free to contact Hatef Otroshi ([hatef.otroshi@epfl.ch](mailto:hatef.otroshi@epfl.ch)).
